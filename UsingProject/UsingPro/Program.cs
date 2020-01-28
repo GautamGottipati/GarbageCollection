@@ -36,6 +36,10 @@ namespace UsingPro
             Console.WriteLine("Generation of C is : " + GC.GetGeneration(c));
             Console.WriteLine("Garbage Collection in Generation 0 is: " + GC.CollectionCount(0));
             #endregion
+            #region Constructor and destructor
+            Console.WriteLine("Constructor and Destructor part . . .");
+            Class2 c2 = new Class2();
+            #endregion
             Console.ReadKey();
         }
     }
