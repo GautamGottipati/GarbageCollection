@@ -1,0 +1,8 @@
+C:\Users\Gautam_Gottipati\source\repos\UsingProject\UsingProject\bin\Debug\netstandard2.0\UsingProject.deps.json
+C:\Users\Gautam_Gottipati\source\repos\UsingProject\UsingProject\bin\Debug\netstandard2.0\UsingProject.dll
+C:\Users\Gautam_Gottipati\source\repos\UsingProject\UsingProject\bin\Debug\netstandard2.0\UsingProject.pdb
+C:\Users\Gautam_Gottipati\source\repos\UsingProject\UsingProject\obj\Debug\netstandard2.0\UsingProject.csprojAssemblyReference.cache
+C:\Users\Gautam_Gottipati\source\repos\UsingProject\UsingProject\obj\Debug\netstandard2.0\UsingProject.AssemblyInfoInputs.cache
+C:\Users\Gautam_Gottipati\source\repos\UsingProject\UsingProject\obj\Debug\netstandard2.0\UsingProject.AssemblyInfo.cs
+C:\Users\Gautam_Gottipati\source\repos\UsingProject\UsingProject\obj\Debug\netstandard2.0\UsingProject.dll
+C:\Users\Gautam_Gottipati\source\repos\UsingProject\UsingProject\obj\Debug\netstandard2.0\UsingProject.pdb

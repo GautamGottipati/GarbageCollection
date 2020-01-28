@@ -1,0 +1,6 @@
+C:\Users\Gautam_Gottipati\source\repos\UsingProject\UsingPro\bin\Debug\UsingPro.exe.config
+C:\Users\Gautam_Gottipati\source\repos\UsingProject\UsingPro\bin\Debug\UsingPro.exe
+C:\Users\Gautam_Gottipati\source\repos\UsingProject\UsingPro\bin\Debug\UsingPro.pdb
+C:\Users\Gautam_Gottipati\source\repos\UsingProject\UsingPro\obj\Debug\UsingPro.csprojAssemblyReference.cache
+C:\Users\Gautam_Gottipati\source\repos\UsingProject\UsingPro\obj\Debug\UsingPro.exe
+C:\Users\Gautam_Gottipati\source\repos\UsingProject\UsingPro\obj\Debug\UsingPro.pdb
