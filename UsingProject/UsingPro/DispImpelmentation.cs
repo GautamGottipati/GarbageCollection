@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace UsingPro
 {
-    class Class1 : IDisposable
+    class DispImpelmentation : IDisposable
     {
         public void Dispose()
         {

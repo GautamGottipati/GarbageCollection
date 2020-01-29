@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace UsingPro
 {
-    class Class2
+    class GCExample
     {
-        public Class2()
+        public GCExample()
         {
             Console.WriteLine("Calling class2 constructor . . .");
         }
-        ~Class2()
+        ~GCExample()
         {
             Console.WriteLine("Calling class2 Destructor . . .");
         }
